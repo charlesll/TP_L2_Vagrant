@@ -1,0 +1,7 @@
+# Groupe 1 - Experience de Hooke
+# masse (g), elongation (mm)
+0., 0.
+10., 5.
+20., 10.
+30., 15.
+40., 20.
