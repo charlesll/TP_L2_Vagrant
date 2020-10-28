@@ -31,7 +31,7 @@ Vagrant permet d'avoir une machine de petite taille (< 800 Mb) et un environneme
 
 - créer un dossier TP_L2, où vous mettrez les fichiers data.txt et script.py disponibles ci dessus (téléchargez les ici : https://github.com/charlesll/TP_L2_Vagrant/archive/main.zip )
 
-- ouvrez un terminal pointant dans ce dossier (voir les instructions de votre système d'exploitation sur internet), puis tapez les commandes suivantes :
+- ouvrez un utilitaire de commande, aussi connu sous le nom de 'terminal', pointant dans ce dossier (voir les instructions de votre système d'exploitation sur internet), puis tapez les commandes suivantes :
 ```
 $ vagrant init charlesll/TP_L2
 $ vagrant up
